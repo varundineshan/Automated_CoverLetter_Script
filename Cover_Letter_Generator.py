@@ -4,7 +4,7 @@ from reportlab.pdfbase import pdfmetrics
 from datetime import datetime
 
 
-fileName = 'MyDoc.pdf'
+fileName = 'Demo_Coverletter.pdf'
 documentTitle = 'Cover Letter'
 title = 'Varun Dineshan '
 subTitle = 'abcdefgh@gmail.com | https://www.linkedin.com/in/abcdefgh | 64x-7X7-XXXX'
